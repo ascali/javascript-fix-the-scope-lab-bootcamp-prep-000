@@ -11,12 +11,9 @@ function yourAnimal() {
   return animal==='dog'?'cat':'cat'
 }
 
-function add2(n) {
-  return n + two
-
-  // Feel free to move things around!
+function add2(n) {// Feel free to move things around!
   const two = 2
-  return two
+  return n + two
 }
 
 var funkyFunction = function() {
